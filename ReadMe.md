@@ -5,7 +5,7 @@
 > create-react-app may not be installed, when prompted say yes, let it install and run the command again.
 
 ```
-npx create-react-app my-react-app
+cd 
 ```
 
 ## Step two change directories to the react app
